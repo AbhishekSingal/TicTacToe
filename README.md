@@ -1,5 +1,5 @@
 # C++ Console TicTacToe
-This is a single player C++ Console TictacToe Game that can you can play.
+This is a single player C++ Console TictacToe Game that can you can play with the computer.
 In this game , you can never win against the computer , either the computer will win or the game will be drawn
 
 ## Building the Project
